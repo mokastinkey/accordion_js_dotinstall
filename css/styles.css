@@ -29,6 +29,7 @@ dt::after {
   position: absolute;
   top: 8px;
   right: 16px;
+  transition: transform .3s;
 }
 
 dl > div.appear dt::after {
